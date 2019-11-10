@@ -2,7 +2,7 @@
 
 ## Author : Mohamad Arfakhsy bin Mohamad Adnan (mohamad.arfakhsy13@gmail.com)
 
-## This project uploaded for portffolio purpose
+## This project uploaded for portfolio purpose
 
 ## The screenshot of E-Masjid Information System available on screenshot folder.
 
